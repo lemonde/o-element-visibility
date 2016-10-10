@@ -7,7 +7,7 @@
     "test": "./node_modules/karma/bin/karma start karma.conf.js"
   },
   "dependencies": {
-    "o-viewport": "git+ssh://git@github.com:lemonde/o-viewport.git#MAN-504/chore/install"
+    "o-viewport": "git+ssh://git@github.com:lemonde/o-viewport.git"
   },
   "devDependencies": {
     "debowerify": "^1.3.1",
