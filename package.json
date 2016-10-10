@@ -1,4 +1,7 @@
 {
+  "name": "o-element-visibility",
+  "version": "v2.1.5",
+  "main": "main.js",
   "private": true,
   "scripts": {
     "test": "./node_modules/karma/bin/karma start karma.conf.js"
